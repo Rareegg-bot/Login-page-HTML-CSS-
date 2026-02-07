@@ -1,0 +1,64 @@
+body {
+    background-image: url('xwing.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#loginHeader {
+    background-color: skyblue;
+    background-image: url('space.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    border: 0px;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form {
+    background-color:  white;
+    border: 1px solid black;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 380px;
+    margin: 100px 500px 100px 500px ;
+}
+
+#container {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#loginButton {
+    background-image: url('space.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    width: 80px;
+    height: 30px;
+    background-color: skyblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 42px;
+}
+
+ #FP {
+    padding-top: 10px;
+    font-size: 14px;
+    cursor: pointer;
+ }
+
+#homeDir {
+    color: black;
+}
+
+
+
